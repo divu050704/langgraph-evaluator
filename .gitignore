@@ -1,4 +1,9 @@
+<<<<<<< HEAD
+**/__pycache__
+**/.venv
+=======
 **/.venv/
 **/uv.lock
 **/__pycache__/
 **/.env*
+>>>>>>> main
